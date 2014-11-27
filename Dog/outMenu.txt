@@ -1,0 +1,25 @@
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+Enter: 
+a
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+Enter: 
+s
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+Enter: 
+s
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+Enter: 
+a
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+Enter: 
+q

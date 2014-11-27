@@ -1,0 +1,236 @@
+Wellcome to DogSimulator.
+Menu class
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+s
+Make class
+Select dog.
+1
+Jame
+Select command.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+1
+Jame I can run.
+2
+Jame Walk
+3
+Jame Eat
+4
+Jame Sit
+5
+Jame Bark
+6
+Jame Fire
+7
+Make class
+Select dog.
+2
+John
+Select command.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+6
+John Ice
+1
+John I can run.
+7
+Make class
+Select dog.
+5
+Jake
+Select command.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+1
+Jake I can't run.
+6
+Jake Bite
+7
+Make class
+Select dog.
+m
+Menu class
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+a
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+1
+Jame
+2
+John
+Dog fighting
+John win.
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+2
+John
+3
+Jane
+Dog fighting
+John win.
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+m
+Menu class
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+q
+Exit
+Wellcome to DogSimulator.
+Menu class
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+a
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+1
+Jame
+2
+John
+Dog fighting
+John win.
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+q
+Wellcome to DogSimulator.
+Menu class
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+a
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+1
+Jame
+2
+John
+Dog fighting
+John win.
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+m
+Menu class
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+s
+Make class
+Select dog.
+1
+Jame
+Select command.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+2
+Jame Walk
+3
+Jame Eat
+8
+Wellcome to DogSimulator.
+Menu class
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+s
+Make class
+Select dog.
+1
+Jame
+Select command.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+1
+Jame I can run.
+2
+Jame Walk
+5
+Jame Bark
+6
+Jame Fire
+7
+Make class
+Select dog.
+2
+John
+Select command.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+1
+John I can run.
+6
+John Ice
+7
+Make class
+Select dog.
+5
+Jake
+Select command.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+1
+Jake I can't run.
+6
+Jake Bite
+7
+Make class
+Select dog.
+m
+Menu class
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+a
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+1
+Jame
+2
+John
+Dog fighting
+John win.
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+2
+John
+3
+Jane
+Dog fighting
+John win.
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+5
+Jake
+4
+June
+Dog fighting
+June win.
+Arena class
+Select dog to fight.
+Menu. Enter _m_
+Exit. Enter _q_
+m
+Menu class
+Play with dog. Enter _s_
+Go to arena. Enter _a_
+Exit. Enter _q_
+q
+Exit

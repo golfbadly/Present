@@ -1,0 +1,101 @@
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+1
+You select: Jame
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+2
+Jame: Walk
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+3
+Jame: Eat
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+8
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+1
+You select: Jame
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+1
+Jame: I can run.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+2
+Jame: Walk
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+5
+Jame: Bark
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+6
+Jame: Fire
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+7
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+2
+You select: John
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+1
+John: I can run.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+6
+John: Ice
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+7
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+5
+You select: Jake
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+1
+Jake: I can't run.
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+6
+Jake: Bite
+Command list: 1.Run 2.Walk 3.Eat 4.Sit 5.Bark 6.Power 7.New Selection. 8.Exit
+Command: 
+7
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Select: 
+m

@@ -1,0 +1,170 @@
+<!DOCTYPE.html>
+<html>
+<script type="text/javascript" src="http://code.jQuery.com/jQuery-1.7.2.min.js"></script>
+<script type="text/javascript" src="functions.js"></script>
+<title>Create profile</title>
+<style>
+html, body, div, p, a, ul, li, header, menu {
+    border: 0 none;
+    font: inherit;
+    margin: 0;
+    outline: 0 none;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+
+body{
+     background-color: #000000;
+     color: #ffffff;
+     font-size: 11px;
+     line-height: 20px;
+     width: 100%;
+}
+#register{
+	 background-image: url("pic/bg.png");
+	 background-position: center top;
+	 height: 1495px;
+	 width: 100%;
+}
+.header{
+	margin-left: auto;
+	margin-right: auto;
+	width: 975px;
+	position: top;
+}
+.header a{
+	  background-position: left top;
+	  background-repeat: no-repeat;
+} 
+.header a.logo{
+	background-image: url("pic/logo.png");
+	display: block;
+	float: left;
+	height: 38px;
+	padding-left: 92px;
+	padding-top: 27px;
+	width: 170px;
+}	
+.header a.Login {
+    background-image: url("pic/logout.png");
+    display: block;
+    float: right;
+    height: 15px;
+    margin-right: 18px;
+    margin-top: 25px;
+    padding-left: 23px;
+    width: 42px;
+}
+
+
+a {
+    color: #ffffff;
+    font-size: 11px;
+    text-decoration: none;
+}
+
+strong {
+	font-size: 16px;
+}
+h {
+   font-size: 40px;
+}
+.regis {
+	padding-top: 120px;	
+	padding-left: 155px;
+}
+p {
+margin-top: 30px;
+color: #01dfd7;
+font-size: 15px;
+}
+</style>
+
+<body>
+<div id="register">
+	<div class="header">
+	   <a class="logo">Create your profile</a>
+	   <a class="Login" href="login.html">Login</a>
+	</div>
+        <div class="regis">	
+	   <h> Create your profile</h>
+	   <form name="form"> 
+		   <p>Name</p> <input name="name" type="text" size="15"
+				placeholder="First Name">
+			       <input name="last" type="text" size="15"
+				placeholder="Last Name">
+<br>	
+		   <p>Username</p> <input name="userid" type="text" size="15">
+<br>
+		   <p>Password</p> <input name="password" type="text" size="15">
+<br>
+		   <p>About me</p> <textarea name="about" cols="50" rows="5">
+				  </textarea>
+<br> 
+	<p>Where you see me?</p> <textarea name="location" cols="50" rows="5">
+                                  </textarea>
+<br>
+        <p>How to contact me?</p> <textarea name="contact" cols="50" rows="5"> 
+				  </textarea>
+<br>
+        <p>Education</p> <textarea name="education" cols="50" rows="5">
+				  </textarea>
+<br><br><br>  
+	<input type="button" value="Save" onClick="AssignValues()">
+	</form>
+</div>
+</div>
+</body>
+<script type="text/javascript"> 
+
+function AssignValues() { 
+
+var username = document.form.userid.value;
+var password = document.form.password.value;
+	if (username == "" || password == "") {
+		window.alert("please fill username or password.");
+	} else {
+		sessionStorage.setItem("name", document.form.name.value); 
+		sessionStorage.setItem("last", document.form.last.value); 
+		sessionStorage.setItem("userid", document.form.userid.value);
+		sessionStorage.setItem("password", document.form.password.value);
+		sessionStorage.setItem("about", document.form.about.value);
+		sessionStorage.setItem("location", document.form.location.value);
+		sessionStorage.setItem("contact", document.form.contact.value);
+		sessionStorage.setItem("education", document.form.education.value);
+		alert("Success!");
+		window.location.href="login.html";
+	}
+}
+function Value() { 
+alert("Value is " 
++ sessionStorage.getItem("name")
++ sessionStorage.getItem("last")
++ sessionStorage.getItem("userid")
++ sessionStorage.getItem("password")
++ sessionStorage.getItem("about")
++ sessionStorage.getItem("location")
++ sessionStorage.getItem("contact")
++ sessionStorage.getItem("education"));
+} 
+
+</script>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

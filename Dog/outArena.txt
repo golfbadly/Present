@@ -1,0 +1,156 @@
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Exit. Enter _q_
+Select RedDog: 
+1
+RedDog: Jame
+Select BlueDog: 
+2
+BlueDog: John
+Result
+RedDog:Jame Fire 1000
+BlueDog:John Ice 1600
+RedDog: Jame Fire 100 damage. Hp: 840
+BlueDog: John Ice 160 damage. Hp: 1500
+RedDog: Jame Fire 100 damage. Hp: 680
+BlueDog: John Ice 160 damage. Hp: 1400
+RedDog: Jame Fire 100 damage. Hp: 520
+BlueDog: John Ice 160 damage. Hp: 1300
+RedDog: Jame Fire 100 damage. Hp: 360
+BlueDog: John Ice 160 damage. Hp: 1200
+RedDog: Jame Fire 100 damage. Hp: 200
+BlueDog: John Ice 160 damage. Hp: 1100
+RedDog: Jame Fire 100 damage. Hp: 40
+BlueDog: John Ice 160 damage. Hp: 1000
+
+Winner: BlueDog John
+
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Exit. Enter _q_
+Select RedDog: 
+m
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Exit. Enter _q_
+Select RedDog: 
+1
+RedDog: Jame
+Select BlueDog: 
+2
+BlueDog: John
+Result
+RedDog:Jame Fire 1000
+BlueDog:John Ice 1600
+RedDog: Jame Fire 100 damage. Hp: 840
+BlueDog: John Ice 160 damage. Hp: 1500
+RedDog: Jame Fire 100 damage. Hp: 680
+BlueDog: John Ice 160 damage. Hp: 1400
+RedDog: Jame Fire 100 damage. Hp: 520
+BlueDog: John Ice 160 damage. Hp: 1300
+RedDog: Jame Fire 100 damage. Hp: 360
+BlueDog: John Ice 160 damage. Hp: 1200
+RedDog: Jame Fire 100 damage. Hp: 200
+BlueDog: John Ice 160 damage. Hp: 1100
+RedDog: Jame Fire 100 damage. Hp: 40
+BlueDog: John Ice 160 damage. Hp: 1000
+
+Winner: BlueDog John
+
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Exit. Enter _q_
+Select RedDog: 
+2
+RedDog: John
+Select BlueDog: 
+3
+BlueDog: Jane
+Result
+RedDog:John Ice 1600
+BlueDog:Jane Fire 1300
+RedDog: John Ice 160 damage. Hp: 1470
+BlueDog: Jane Fire 130 damage. Hp: 1140
+RedDog: John Ice 160 damage. Hp: 1340
+BlueDog: Jane Fire 130 damage. Hp: 980
+RedDog: John Ice 160 damage. Hp: 1210
+BlueDog: Jane Fire 130 damage. Hp: 820
+RedDog: John Ice 160 damage. Hp: 1080
+BlueDog: Jane Fire 130 damage. Hp: 660
+RedDog: John Ice 160 damage. Hp: 950
+BlueDog: Jane Fire 130 damage. Hp: 500
+RedDog: John Ice 160 damage. Hp: 820
+BlueDog: Jane Fire 130 damage. Hp: 340
+RedDog: John Ice 160 damage. Hp: 690
+BlueDog: Jane Fire 130 damage. Hp: 180
+RedDog: John Ice 160 damage. Hp: 560
+BlueDog: Jane Fire 130 damage. Hp: 20
+
+Winner: RedDog John
+
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Exit. Enter _q_
+Select RedDog: 
+5
+RedDog: Jake
+Select BlueDog: 
+4
+BlueDog: June
+Result
+RedDog:Jake Bite 1400
+BlueDog:June Ice 1700
+RedDog: Jake Bite 14 damage. Hp: 1230
+BlueDog: June Ice 170 damage. Hp: 1686
+RedDog: Jake Bite 14 damage. Hp: 1060
+BlueDog: June Ice 170 damage. Hp: 1672
+RedDog: Jake Bite 14 damage. Hp: 890
+BlueDog: June Ice 170 damage. Hp: 1658
+RedDog: Jake Bite 14 damage. Hp: 720
+BlueDog: June Ice 170 damage. Hp: 1644
+RedDog: Jake Bite 14 damage. Hp: 550
+BlueDog: June Ice 170 damage. Hp: 1630
+RedDog: Jake Bite 14 damage. Hp: 380
+BlueDog: June Ice 170 damage. Hp: 1616
+RedDog: Jake Bite 14 damage. Hp: 210
+BlueDog: June Ice 170 damage. Hp: 1602
+RedDog: Jake Bite 14 damage. Hp: 40
+BlueDog: June Ice 170 damage. Hp: 1588
+
+Winner: BlueDog June
+
+Dog list:
+1.Jame Poodle Adult Male 1000 Fire
+2.John Labrador Children Male 1600 Ice
+3.Jane Beagle Adult Female 1300 Fire
+4.June Pitbull Adult Male 1700 Ice
+5.Jake Bulldog Old Male 1400 Bite
+Menu. Enter _m_
+Exit. Enter _q_
+Select RedDog: 
+m
